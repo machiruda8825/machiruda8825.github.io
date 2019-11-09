@@ -1,0 +1,103 @@
+*{
+  background-color: #FF6600;
+  padding-left: 3%;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Impact',sans-serif;
+  margin-bottom: 0;
+}
+
+h6 {
+  font-family: 'Impact',sans-serif;
+}
+
+.left {
+  position: absolute;
+  top: 200px;
+  left: 5%;
+}
+
+.right {
+  position: absolute;
+  top: 200px;
+  left:45%;
+}
+
+.message {
+  position: absolute;
+  top: 450px;
+  left: 5%;
+}
+
+.form {
+  background-color: #aaa;
+  border:0;
+  padding:10px;
+  font-size:1.3em;
+  font-family:Arial, sans-serif;
+  color:black;
+  border:solid 1px #ccc;
+  margin:0 0 20px;
+  width:200px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.text {
+  background-color: #AAAAAA;
+  border:0;
+  padding:10px;
+  font-size:1.3em;
+  font-family:Arial, sans-serif;
+  color:black;
+  border:solid 1px #ccc;
+  margin:0 0 20px;
+  width: 500px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+input:focus {
+    border:solid 1px #EEA34A;
+}
+
+button {
+  background-color: #AAAAAA;
+  position: absolute;
+  top: 300px;
+  left: 3%;
+  border:solid 1px #ccc;
+  padding:15px 30px;
+  margin:0 0 20px;
+  font-family:Arial, sans-serif;
+  font-size:1.2em;
+  text-transform:uppercase;
+  font-weight:bold;
+  color:#333;
+  cursor:pointer;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
